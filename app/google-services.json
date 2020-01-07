@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "720569634461",
+    "firebase_url": "https://appnavidadkiko.firebaseio.com",
+    "project_id": "appnavidadkiko",
+    "storage_bucket": "appnavidadkiko.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720569634461:android:826eb4f90f59af9b9d4e74",
+        "android_client_info": {
+          "package_name": "com.example.appnavidadkiko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720569634461-vuas105erhpj8287b2h3q15dv7tgd5si.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appnavidadkiko",
+            "certificate_hash": "a476eda47c7e6b6982f1cb71f052165de7264371"
+          }
+        },
+        {
+          "client_id": "720569634461-e1erfrp9a51rl12ko8j9g8cmt9dkpnea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7D2TBRlUcAM7XFfS4g17LcOfn5hUqFPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720569634461-e1erfrp9a51rl12ko8j9g8cmt9dkpnea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
